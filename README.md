@@ -1,8 +1,3 @@
 - 👋 Hi, I’m @wharris1597
-- 🌱 I’m currently learning everything about programming haha. It is a fun journey so far.
-- 📫 If you need to reach me, pop me an email @ wharris1597@gmail.com
 
-<!---
-wharris1597/wharris1597 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am excited to begin my career as a software developer and am eager to learn and grow as a professional. I have a strong foundation in programming languages such as Java, C++, and Python, as well as experience with SQL databases and Agile software development methodologies. In my academic and extracurricular projects, I have demonstrated my problem-solving skills and ability to work effectively in a team. I am looking forward to using my skills and knowledge to contribute to the success of a company as an entry-level software developer. Thank you for considering me for opportunities in your organization.
